@@ -1,0 +1,6 @@
+{
+  "name": "Harmonix - Interactive Music Theory & Scale Visualizer",
+  "description": "An interactive music theory visualizer generating scales, chords, piano, fretboard, and circle of fifths diagrams with a multi-turn Gemini music tutor and high-res art generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
